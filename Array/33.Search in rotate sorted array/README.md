@@ -28,3 +28,9 @@ Constraints:
 All values of nums are unique.
 nums is an ascending array that is possibly rotated.
 -104 <= target <= 104
+
+## Reference
+
+- [Leetcod problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+- [Search element in rotated sorted array](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/)

@@ -18,3 +18,6 @@ var maxProduct = function (nums) {
   }
   return max;
 };
+
+// Time complexity : O(n)
+// Space complexity : O(1)
