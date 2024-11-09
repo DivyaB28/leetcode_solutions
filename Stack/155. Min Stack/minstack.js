@@ -42,7 +42,3 @@ MinStack.prototype.getMin = function () {
  * var param_3 = obj.top()
  * var param_4 = obj.getMin()
  */
-
-/**
- * problem: https://leetcode.com/problems/min-stack/description/
- */
